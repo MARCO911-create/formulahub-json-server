@@ -3,62 +3,15 @@
     {
       "id": 1,
       "title": "Teorema de Pitágoras",
-      "description": "Relación fundamental en geometría euclidiana entre los tres lados de un triángulo rectángulo",
-      "category": "Matemáticas",
-      "subcategory": "Geometría",
-      "contentType": "latex",
       "content": "$$a^2 + b^2 = c^2$$",
-      "fileUrl": "",
-      "fileName": "",
-      "fileType": "",
-      "uploadDate": "2023-10-15",
-      "views": 150,
-      "downloads": 45
+      "category": "Matemáticas"
     },
     {
       "id": 2,
-      "title": "Ley de Gravitación Universal",
-      "description": "Describe la interacción gravitatoria entre cuerpos masivos",
-      "category": "Física",
-      "subcategory": "Mecánica",
-      "contentType": "latex",
-      "content": "$$F = G \\frac{m_1 m_2}{r^2}$$",
-      "fileUrl": "",
-      "fileName": "",
-      "fileType": "",
-      "uploadDate": "2023-10-14",
-      "views": 89,
-      "downloads": 23
-    },
-    {
-      "id": 3,
-      "title": "Ecuación de Schrödinger",
-      "description": "Ecuación fundamental de la mecánica cuántica no relativista",
-      "category": "Física",
-      "subcategory": "Mecánica Cuántica",
-      "contentType": "latex",
-      "content": "$$i\\hbar\\frac{\\partial}{\\partial t}\\Psi(\\mathbf{r},t) = \\hat{H}\\Psi(\\mathbf{r},t)$$",
-      "fileUrl": "",
-      "fileName": "",
-      "fileType": "",
-      "uploadDate": "2023-10-13",
-      "views": 67,
-      "downloads": 18
-    },
-    {
-      "id": 4,
-      "title": "Ley de los Gases Ideales",
-      "description": "Ecuación de estado que describe el comportamiento de un gas ideal",
-      "category": "Química",
-      "subcategory": "Termodinámica",
-      "contentType": "latex",
-      "content": "$$PV = nRT$$",
-      "fileUrl": "",
-      "fileName": "",
-      "fileType": "",
-      "uploadDate": "2023-10-12",
-      "views": 94,
-      "downloads": 31
+      "title": "Nueva Fórmula de Usuario",
+      "content": "$$E = mc^2$$", 
+      "category": "Física"
     }
+    // Agregas manualmente las nuevas fórmulas aquí
   ]
 }
