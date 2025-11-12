@@ -1,0 +1,16 @@
+{
+  "name": "formulahub-json-server",
+  "version": "1.0.0",
+  "description": "JSON Server para FormulaHub - Plataforma de fórmulas académicas",
+  "main": "db.json",
+  "scripts": {
+    "start": "json-server --watch db.json --port 3000",
+    "serve": "json-server --host 0.0.0.0 db.json"
+  },
+  "keywords": ["formulas", "academic", "mathematics", "physics"],
+  "author": "Tu Nombre",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
